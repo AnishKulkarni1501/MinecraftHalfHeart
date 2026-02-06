@@ -1,0 +1,8 @@
+name: McHalfHeart
+version: 1.0
+main: org.anish.mcplugin.Main
+api-version: 1.21
+
+commands:
+  hello:
+    description: Minecraft, but you have half a heart
